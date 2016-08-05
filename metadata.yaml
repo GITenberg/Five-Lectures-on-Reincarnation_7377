@@ -1,0 +1,28 @@
+_repo: Five-Lectures-on-Reincarnation_7377
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abhedananda, Swami
+    alias: Abhedananda, Swami
+    birthdate: 1866
+    deathdate: 1939
+    gutenberg_agent_id: '2450'
+    url: http://www.gutenberg.org/2009/agents/2450
+    wikipedia: http://en.wikipedia.org/wiki/Abhedananda
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Hindu'
+- !lcsh 'Reincarnation'
+- !lcc 'BL'
+- !lcsh 'Vedanta'
+- GITenberg
+title: Five Lectures on Reincarnation
+url: http://www.gutenberg.org/ebooks/7377
